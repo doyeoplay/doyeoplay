@@ -3,7 +3,9 @@
 <p align='center'>
 <div align="center">
 <a href="https://doyeop.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-blue?style=flat-square&logo=WordPress&logoColor=white"/></a>
-<a href="https://www.instagram.com/ehduq/" target="_blank"><img src="https://img.shields.io/badge/Insta-inactive?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ehduq/" target="_blank"><img src="https://img.shields.io/badge/Insta-inactive?style=flat-square&logo=Instagram&logoColor=white"/>
+</a>
+<a href="mailto:doyeoplay@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 <br>
 <details>
