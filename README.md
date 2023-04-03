@@ -15,10 +15,12 @@
     <br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
     <br>
+    <br>
     Back-End
     <br>
     <br>
       <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+    <br>
     <br>
     </p>
 </details>
