@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=180&section=header&text=&fontAlign=83&fontAlignY=35&fontColor=#dd9933&fontSize=90) -->
-<h3 align='center'>🚀 SNS 🚀</p>
+<h2 align='center'>🚀 SNS 🚀</p>
 <p align='center'>
 <div align="center">
 <a href="https://doyeop.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-blue?style=flat-square&logo=WordPress&logoColor=white"/></a>
@@ -9,7 +9,7 @@
 </div>
 <br>
 <details>
-  <summary>🚥 Tech Stack 🚥</summary>
+  <summary><h2>🚥 Tech Stack 🚥</summary>
     <p>
     <p align='center'>
     Front-End
