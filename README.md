@@ -9,7 +9,7 @@
 </div>
 <br>
 <details>
-  <summary><h2>🚥 Tech Stack 🚥</summary>
+  <summary><h3>🚥 Tech Stack 🚥</summary>
     <p>
     <p align='center'>
     Front-End
