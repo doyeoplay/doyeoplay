@@ -12,8 +12,6 @@
   <summary>🚥 Tech Stack 🚥</summary>
     <p>
     <p align='center'>
-    Front-End
-    <br>
     <br>
       <img src="https://img.shields.io/badge/jQuery-black?style=flat-square&logo=jQuery&logoColor=white"/></a>
     <br>
@@ -21,8 +19,6 @@
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
     <br>
-    <br>
-    Back-End
     <br>
     <br>
       <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
