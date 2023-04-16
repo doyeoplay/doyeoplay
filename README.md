@@ -1,4 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=180&section=header&text=&fontAlign=83&fontAlignY=35&fontColor=#dd9933&fontSize=90) -->
+![노랑 cross](https://user-images.githubusercontent.com/127378644/232315605-79f96f5a-97f3-413b-86e4-24c3cd786a11.jpg){: .center}
+
 <h2 align='center'>🚀 SNS 🚀</p>
 <p align='center'>
 <div align="center">
