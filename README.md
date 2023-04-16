@@ -9,8 +9,9 @@
 <a href="mailto:doyeoplay@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 <br>
-<details>
-  <summary>🚥 Tech Stack 🚥</summary>
+<!-- <details> -->
+<!--   <summary>🚥 Tech Stack 🚥</summary> -->
+  <h2 align='center'>🚥 Tech Stack 🚥</p>
     <p>
     <p align='center'>
       <img src="https://img.shields.io/badge/jQuery-black?style=flat-square&logo=jQuery&logoColor=white"/></a>
@@ -24,6 +25,6 @@
     <br>
     <br>
     </p>
-</details>
+<!-- </details> -->
 
 <!-- [![sujeong-jang-creator's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeong-jang-creator&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sujeong-jang-creator) -->
