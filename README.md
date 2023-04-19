@@ -13,7 +13,7 @@
 <!--   <summary>🚥 Tech Stack 🚥</summary> -->
   <h2 align='center'>🚥 Tech Stack 🚥</p>
     <p align='center'>
-      <img src="https://img.shields.io/badge/jQuery-black?style=flat-square&logo=jQuery&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/jQuery-000036?style=flat-square&logo=jQuery&logoColor=white"/></a>
     <br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
