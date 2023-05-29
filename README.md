@@ -1,19 +1,17 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=180&section=header&text=&fontAlign=83&fontAlignY=35&fontColor=#dd9933&fontSize=90) -->
 
-<h2 align='center'>🚀 SNS 🚀</p>
-<p align='center'>
-<div align="center">
+<h2>🚀 SNS 🚀</p>
+<div>
 <a href="https://doyeop.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-blue?style=flat-square&logo=WordPress&logoColor=white"/></a>
-<a href="https://www.instagram.com/ehduq/" target="_blank"><img src="https://img.shields.io/badge/Insta-inactive?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
+<a href="https://www.instagram.com/ehduq/" target="_blank"><img src="https://img.shields.io/badge/Insta-inactive?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:doyeoplay@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 <br>
 <!-- <details> -->
 <!--   <summary>🚥 Tech Stack 🚥</summary> -->
-  <h2 align='center'>🚥 Tech Stack 🚥</p>
-    <p align='center'>
-      <img src="https://img.shields.io/badge/Next-#000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
+  <h2>🚥 Tech Stack 🚥</p>
+    <p>
+      <img src="https://img.shields.io/badge/nextdotjs-#000000?style=flat-square&logo=Next&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/jQuery-000036?style=flat-square&logo=jQuery&logoColor=white"/></a>
     <br>
@@ -23,6 +21,7 @@
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
     <br>
     <br>
+      <img src="https://img.shields.io/badge/GraphQL-#E10098?style=flat-square&logo=graphql&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> 
     <br>
