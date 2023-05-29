@@ -13,7 +13,7 @@
     <p>
       <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/jQuery-000036?style=flat-square&logo=jQuery&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
     <br>
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
