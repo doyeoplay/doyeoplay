@@ -11,7 +11,7 @@
 <!--   <summary>🚥 Tech Stack 🚥</summary> -->
   <h2>🚥 Tech Stack 🚥</p>
     <p>
-      <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat-square&logo=Next&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/jQuery-000036?style=flat-square&logo=jQuery&logoColor=white"/></a>
     <br>
