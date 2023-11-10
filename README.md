@@ -1,4 +1,3 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=180&section=header&text=&fontAlign=83&fontAlignY=35&fontColor=#dd9933&fontSize=90) -->
 <div align = center>
 <h2>🚀 SNS 🚀</p>
 <div>
@@ -26,6 +25,4 @@
       <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> 
     <br><br>
 <!-- </details> -->
-
-<!-- [![sujeong-jang-creator's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeong-jang-creator&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sujeong-jang-creator) -->
 </div>
